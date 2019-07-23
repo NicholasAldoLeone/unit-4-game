@@ -1,0 +1,94 @@
+body {
+    font-weight: bold;
+    background-color: lightblue;
+    
+}
+
+#userNumberBox {
+    background-color: lightblue;
+    height: 50px;
+    margin-right: 100%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-collapse: black;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    
+}
+
+#goalNumberBox {
+    background-color: lightblue;
+    height: 50px;
+    margin-right: 100%;
+    margin-bottom: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-collapse: black;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+
+}
+
+#winsNumberBox {
+    background-color: lightblue;
+    height: 50px;
+    margin-right: 100%;
+    margin-bottom: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-collapse: black;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+
+}
+
+#lossesNumberBox {
+    background-color: lightblue;
+    height: 50px;
+    margin-right: 100%;
+    margin-bottom: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-collapse: black;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+
+}
+
+#textBox {
+    color: white;
+    background-color: lightsalmon;
+
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    margin-top: 27%;
+}
+
+.btn {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 0;
+
+}
+
+.col-md-6 {
+    margin-top: 0px;
+    background-color: lightgreen;
+    height: 754px;
+
+}
+
+
+.col-md-1 {
+    margin-left: 35px;
+    margin-right: 0px;
+}
